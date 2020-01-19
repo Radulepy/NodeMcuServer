@@ -2,7 +2,7 @@
 ## NodeMcu Server using Bootstrap that automatically refreshes and gives information on NodeMcu's Homepage
 
 VIDEO:
-![EXAMPLE](/images/video_CUT.mp4)
+![VIDEO](/images/video_CUT.mp4)
 
 Inside you can find 2 folders:
 * One is with the webserver with only 3 LEDs connected to it
