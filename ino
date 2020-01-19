@@ -1,4 +1,11 @@
 /*
+Author: Lepy
+GitHub: https://github.com/Radulepy
+Website: learn.lepystudio.ro
+*/
+
+/*
+delete this if not using NodeMcu
  * NODE MCU PIN MAPPING: (since they are different from Arduino)
 static const uint8_t D0   = 16;
 static const uint8_t D1   = 5;
@@ -288,5 +295,4 @@ String returnTypeString (String Name) // this function transorms the name of the
   else // is "primary"
      return "<font color=\"green\"> ON </font>"; // will return a green "ON"
 }
-// planuri:
-// de facut un program pt pin-uri: porneste la ora aia, porneste cand e mai mic decat o val, etc...
+
